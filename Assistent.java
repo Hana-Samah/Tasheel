@@ -4,7 +4,7 @@ import java.util.*;
     /***
      *Assistent class extends PInformation class has 1 data fields it's salary 
      * has 3 constructors  
-     * has 3 method without method super class 
+     * hasfgdas 3 method without method super class 
      ***/
 public class Assistent extends PInformation {
 
